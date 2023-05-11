@@ -9,3 +9,6 @@
   EntityFramework.Core
   EntityFrameWork.Core.SqlServer
   EnttiyFramework.Core.tools
+  // package manager console
+  add-migration nameofmigration
+  update-database
